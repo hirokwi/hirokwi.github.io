@@ -1,0 +1,219 @@
+*{
+		margin:0;
+		padding:0;
+}
+
+BODY{
+	margin:0 auto;
+	padding: 25px 0;
+	width: 940px;
+	font: 14px Tahoma;
+	background-size: cover;
+	
+}
+
+NAV{
+	display: block;
+}
+
+NAV UL{
+	list-style: none;	
+}
+
+NAV UL LI {
+	float:left;
+}
+
+NAV UL LI A{
+	display: block;
+	height: 30px;
+	padding: 0 30px;
+	font-size: 14px;
+	line-height: 30px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	color: #000;
+}
+
+NAV UL LI A.destaque {
+	background-color: #34ABE0;
+	margin-left: 10px;
+	color: #FFF;
+	height: 25px;
+	line-height: 25px;
+	margin-top: 2px;
+}
+
+NAV UL LI A: hover {
+	color: #04F99A;
+}
+
+DIV.graduação{
+	width: 940px;
+	height: 1150px;
+}
+
+ARTICLE.artigo{
+	width: 700px;
+	float: left;
+}
+
+ARTICLE HEADER H1{
+	text-align: justify;
+}
+
+ASIDE.nova_arte{
+	width: 240px;
+	float: left;
+	padding-top: 85px;
+}	
+
+ASIDE UL{ 
+	list-style: none;
+}
+
+ASIDE SECTION UL H1{
+	margin-bottom: 10px;
+	font-size: 16px;
+}
+
+ASIDE SECTION UL LI{
+	margin-left: 20px;
+	font-size: 18px;
+}
+
+FOOTER SECTION.nova_arte{
+	width: 240px;
+	float: right;
+	padding-top: 47px;
+	margin-bottom: 75%;
+}
+
+FOOTER SECTION H1{
+	margin-bottom: 10px;
+	font-size: 16px;
+}
+
+FOOTER SECTION{
+	margin-left: 20px;
+	font-size: 18px;
+}
+
+UL.marcacao{
+	list-style: none;
+}
+
+FIGURE{
+	margin-left: 12%;
+}
+
+FIGURE FIGCAPTION{
+	font-size: 12px;
+	margin-left: 50px;
+}
+
+IFRAME{
+	margin-left: 15%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+FIGCAPTION{
+	font-size: 12PX;
+	margin-left: 50%;
+}
+
+FORM LABEL{
+	font-size: 20px;
+}
+
+FORM INPUT{
+	height: 35px;
+	font-size: 20px;
+	margin-bottom: 20px;
+	margin-left: 43px;
+}
+
+FORM INPUT#graduacao{
+	margin-left: 0px;
+	
+	
+}
+
+FORM INPUT#email{
+	margin-left: 40px;
+}
+
+FORM INPUT#botao{
+	font-size: 25px;
+	padding: auto;
+}
+
+FORM TEXTAREA{
+	width: 700px;
+	height: 100;
+	font-size: 25px;
+}
+BODY{
+	width: 1150;
+}
+
+DIV.graduação{
+	width: 1150px;
+	height: 1150px;
+}
+
+ASIDE.nova_arte{
+	width: 420px;
+}
+
+FOOTER SECTION.nova_arte{
+	width: 420px;
+}
+
+NAV,HEADER,SECTION,ARTICLE,FOOTER,ASIDE, FORM{
+	DISPLAY: block;
+	opacity: 0,9;
+}
+div{
+	background-color: white;
+	opacity: 0,9
+}
+
+aside{
+	background-color: white;
+	opacity: 0,9;
+	
+}
+
+header{
+	font-size: 30px;
+	opacity: 0,9;
+}
+
+nav UL LI a.hover{
+	color: grey;
+}
+	
+	
+}
+
+header, h4{
+	height: 200spx;
+	width: 900px;
+	opacity: 0,9;
+}
+
+nav ul b li a{
+	opacity: 1,0;
+	
+}
+
+section{
+	opacity: 0,9;
+}
+
+
+
+
